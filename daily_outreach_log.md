@@ -168,3 +168,12 @@
 2. Sannee Solutions Vadodara Recruitment: https://sanneesolutionss.com/services.php
 3. SRF Limited Dahej Plant HR: https://www.instagram.com/reel/DcC5E4XM4s4/
 4. Gujarat Fluorochemicals (GFL) Dahej Unit: https://gfl.co.in/current-openings.php
+
+| 2026-08-15 (Master High-Volume Run 2) | Sun Pharma, Cadila, Sarthee, Global Consultancy, Alkem, Reliance, etc. | 25 | 27 | 0 | 25 | High-volume master run completed. 25 more verified contacts sent resumes with Auto-Approval. Total cumulative sent emails: 480. |
+
+## Master High-Volume Run 2 Source Verification — 15 August 2026
+
+1. Cadila Pharmaceuticals QA Dholka Virtual Drive: https://pharmabharat.org/cadila-pharmaceuticals-hiring-for-quality-assurance/
+2. Sun Pharma Regulatory Affairs Hiring: https://pharmabharat.org/sun-pharma-hiring-for-regulatory-affairs/
+3. Vadodara/Ahmedabad Pharma Recruitment Directory: Sulekha, JustDial, Scribd (Sarthee, Job Vista, Global Consultancy).
+4. Major Pharma Corporate HRs: Alkem, Strides, Dr. Reddy's, Intas, Glenmark (Dahej).
