@@ -30,3 +30,12 @@
 3. Gufic Biosciences Indore Walk-in: Instagram Reel (recruitment.indore@guficbio.com).
 4. Ind-Swift Labs recruitment: User provided list (hr.gbu@indswiftlabs.com).
 5. Sun Pharma, Intas, and Zydus specific HR leads: Verified from LinkedIn and PharmaJobAlert.in.
+
+| 2026-08-15 (Immediate Run — user requested) | Stallion, Rednex, Bharat Parenterals, Ipca Laboratories | 1 | 4 | 0 | 1 | Evidence-based run. Existing active contacts at Stallion, Rednex and Bharat Parenterals were skipped as duplicates. One newly verified Ipca contact received exactly one resume attachment. Total cumulative confirmed sends: 502. |
+
+## Immediate Run Source Verification — 15 August 2026
+
+1. **Stallion Laboratories, Ahmedabad:** Active 23 August 2026 walk-in for Production (Compression) and QA (including IPQA/documentation), with public application emails. Both were already in the sent log and were not resent. Source: https://pharmastuff.org/job/stallion-laboratories-walk-in-interview-recruitment
+2. **Rednex Pharmaceuticals, Bavla:** Production and QA walk-in notice with public recruitment email; the address was already in the sent log and was not resent. Source: https://pharmabharat.com/rednex-pharma-is-hiring-freshers-experienced-for-production-qa-qc-ra-packing-engineering/
+3. **Bharat Parenterals, Savli:** 17–18 August 2026 tablet/capsule and QA/IPQA walk-in; no new public recruitment email in the notice. Existing company HR contact was already in the sent log. Source: https://dmc-education.com/2026/08/14/bharat-parenterals-limited-recruitment-2026-walk-in-interview-for-engineering-pharma-qa-qc-regulatory-affairs-jobs/
+4. **Ipca Laboratories:** 23 August 2026 API Production and QA walk-in contact independently corroborated by current public job posts; `abhishekd.parmar@ipca.com` passed duplicate and Elysium filters and was sent one resume successfully. Sources: https://www.instagram.com/daily_pharma_job_alerts/reel/DcAe79DOMH_/ and https://www.facebook.com/Pharmajobspost/posts/ipca-laboratories-walk-in-interview-2026-bio-manufacturing-jobs-in-pithampur-23-/1562662565875020/
