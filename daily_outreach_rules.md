@@ -30,3 +30,16 @@ Daily research and application for Production Officer (Tablet Compression), OSD 
 ## 6. Execution Schedule
 - Twice-daily (09:00 AM and 05:00 PM IST).
 - Immediate runs upon user request.
+
+## 7. Personalized Automation Profile
+- **Candidate:** Balaji Rajput; immediate joiner with OSD tablet-compression and cGMP documentation experience.
+- **Priority geography:** Vadodara, Halol, Savli, Makarpura, Nandesari, Ankleshwar, Bharuch, Dahej, Sanand and Ahmedabad; expand to the rest of India only when a current, role-relevant vacancy is public.
+- **Integration roles:** Gmail is the only delivery channel and must use the active authorized sender `sellbuildingbazar.in@gmail.com`. Google Gemini may assist public-source research and lead-quality review. GitHub is a private backup for non-sensitive automation files and audit logs. Browser-based services are optional research or login aids only; no password, OTP, or private account data is stored in the automation.
+- **Verification before send:** A lead must have both a current role/walk-in signal and a publicly listed recruitment/careers/company-application address. General or role-unrelated addresses must be skipped.
+- **Run reporting:** Each twice-daily run must report the source URLs checked, verified leads found, successful sends, duplicates skipped, exclusions skipped, and any delivery errors. A target of up to 100 does not justify lower evidence standards.
+- **Standing authority:** Send only verified new leads automatically; do not seek an additional send click from the user.
+- **Safety boundary:** Never use any account password, private contact list, invented email address, personal recipient address, or non-recruitment contact merely to increase volume.
+
+## 8. Current Service Limitations
+- The recurring schedule is the authoritative execution mechanism. Third-party browser interfaces such as Julius or Google Antigravity are not required to send applications and must only be used when their active session and documented features permit a specific action.
+- If an external service lacks an available schedule API or its session is unavailable, the core daily outreach schedule continues independently rather than claiming a separate external schedule.
