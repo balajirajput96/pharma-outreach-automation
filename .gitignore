@@ -1,0 +1,31 @@
+# Prevent unrelated local data, browser state, credentials, and temporary files from entering this repository.
+*
+!.gitignore
+!Balaji_Rajput_Pharma_Outreach_Automation_Report.md
+!master_pharma_automation.py
+!daily_outreach_rules.md
+!daily_outreach_log.md
+!sent_emails.txt
+
+# Explicit sensitive and runtime exclusions
+.env
+.secrets/
+.manus/
+.mcp/
+.browser_data_dir/
+browser_html/
+page_texts/
+screenshots/
+terminal_full_output/
+upload/
+*.pdf
+*.json
+*.pyc
+__pycache__/
+.cache/
+.config/
+.gemini/
+.logs/
+.npm/
+.nvm/
+.local/
