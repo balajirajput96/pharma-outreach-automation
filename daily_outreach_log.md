@@ -159,3 +159,12 @@
 1. Top 50 Pharma Companies in India/Gujarat: https://www.moruflifesciences.com/Top-50-Pharma-Companies-in-Ankleshwar
 2. Pharma HR Email Directory: https://www.scribd.com/doc/172345986/Pharmaceutical-Company-HR-Email-ID
 3. Professional Recruitment Networks (Sarthee, TeamLease, Kelly): https://www.alliancerecruitmentagency.com/pharma-recruitment-consultants/
+
+| 2026-08-15 (Unified Master Run) | Samarika Pharma, Sannee Solutions, SRF Dahej, GFL Dahej | 5 | 8 | 0 | 5 | Master integration run completed with Gemini Pro. 5 new verified contacts sent resumes with Auto-Approval. Total cumulative sent emails: 455. |
+
+## Unified Master Run Source Verification — 15 August 2026
+
+1. Samarika Pharma Solutions LLP Jhagadia Walk-in: https://www.instagram.com/p/DcDKLMSqDTr/
+2. Sannee Solutions Vadodara Recruitment: https://sanneesolutionss.com/services.php
+3. SRF Limited Dahej Plant HR: https://www.instagram.com/reel/DcC5E4XM4s4/
+4. Gujarat Fluorochemicals (GFL) Dahej Unit: https://gfl.co.in/current-openings.php
