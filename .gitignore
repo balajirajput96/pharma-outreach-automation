@@ -6,6 +6,8 @@
 !daily_outreach_rules.md
 !daily_outreach_log.md
 !sent_emails.txt
+!tests/
+!tests/*.py
 
 # Explicit sensitive and runtime exclusions
 .env
