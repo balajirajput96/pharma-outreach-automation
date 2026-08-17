@@ -8,6 +8,7 @@
 !sent_emails.txt
 !tests/
 !tests/*.py
+!pytest.ini
 
 # Explicit sensitive and runtime exclusions
 .env
