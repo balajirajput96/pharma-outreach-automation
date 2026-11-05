@@ -86,6 +86,24 @@ KNOWN_VADODARA_DRIVES = [
         "careers_portal": "https://amilifesciences.com/careers/",
         "frequency": "Direct Gate Interview & Weekly HR Review",
     },
+    {
+        "company": "Astral SteriTech Pvt Ltd",
+        "venue": "Astral SteriTech Pvt Ltd, Makarpura GIDC, Vadodara",
+        "departments": ["QA/QC Trainee", "Sterile Production", "Microbiology"],
+        "eligibility": "B.Sc / M.Sc / B.Pharm / Diploma in Biotech",
+        "contact_email": "hr@astralsteritech.com",
+        "careers_portal": "https://astralsteritech.com/careers/",
+        "frequency": "Walk-ins for Freshers / Trainees",
+    },
+    {
+        "company": "Kashiv BioSciences",
+        "venue": "Kashiv BioSciences, Savli GIDC, Vadodara",
+        "departments": ["Entry-Level QA/QC Trainee", "Biologics Production Officer", "IPQA"],
+        "eligibility": "B.Sc / M.Sc / B.Pharm",
+        "contact_email": "hr@kashivbio.com",
+        "careers_portal": "https://www.kashivbio.com/careers/",
+        "frequency": "Monthly Plant Walk-in Drives",
+    },
 ]
 
 
