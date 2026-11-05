@@ -981,5 +981,58 @@
       "hr@cliantha.com"
     ],
     "type": "Bioanalytical & Dermatology CRO"
+  },
+  {
+    "company": "Piramal Pharma Solutions",
+    "zone": "Navsari / Digwal / Gujarat Base",
+    "emails": [
+      "careers@piramal.com",
+      "hr@piramal.com"
+    ],
+    "type": "API / Formulations"
+  },
+  {
+    "company": "Kashiv BioSciences",
+    "zone": "Savli, Vadodara",
+    "emails": [
+      "hr@kashivbio.com",
+      "careers@kashivbio.com"
+    ],
+    "type": "Biologics / QC / Production"
+  },
+  {
+    "company": "Piramal Pharma Solutions",
+    "zone": "Digwal / Navsari / Gujarat",
+    "emails": [
+      "careers.pps@piramal.com",
+      "hr.pps@piramal.com"
+    ],
+    "type": "API / Formulations / QA"
+  },
+  {
+    "company": "Astral SteriTech Pvt Ltd",
+    "zone": "Makarpura, Vadodara",
+    "emails": [
+      "hr@astralsteritech.com",
+      "careers@astralsteritech.com"
+    ],
+    "type": "Sterile Injectables / QA/QC Trainee"
+  },
+  {
+    "company": "Bellatrix Pharmaceuticals",
+    "zone": "Gorwa, Vadodara",
+    "emails": [
+      "hr@bellatrixpharma.com"
+    ],
+    "type": "OSD / Production"
+  },
+  {
+    "company": "Karan Pharmaceuticals",
+    "zone": "Nandesari, Vadodara",
+    "emails": [
+      "hr@karanpharma.com",
+      "admin@karanpharma.com"
+    ],
+    "type": "API / Quality Control"
   }
 ]
