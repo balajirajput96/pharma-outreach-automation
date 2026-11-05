@@ -40,3 +40,7 @@
 3. **Bharat Parenterals, Savli:** 17–18 August 2026 tablet/capsule and QA/IPQA walk-in; no new public recruitment email in the notice. Existing company HR contact was already in the sent log. Source: https://dmc-education.com/2026/08/14/bharat-parenterals-limited-recruitment-2026-walk-in-interview-for-engineering-pharma-qa-qc-regulatory-affairs-jobs/
 4. **Ipca Laboratories:** 23 August 2026 API Production and QA walk-in contact independently corroborated by current public job posts; `abhishekd.parmar@ipca.com` passed duplicate and Elysium filters and was sent one resume successfully. Sources: https://www.instagram.com/daily_pharma_job_alerts/reel/DcAe79DOMH_/ and https://www.facebook.com/Pharmajobspost/posts/ipca-laboratories-walk-in-interview-2026-bio-manufacturing-jobs-in-pithampur-23-/1562662565875020/
 | 2026-11-05 06:00:02 (dry-run) | Vadodara Corridor Outreach | Targeted: 166 | Daily Quota: 200 | Resume: Balaji_Rajput_Fresher_Resume.pdf | Status: DRY-RUN OK |
+[2026-11-05 18:51:48] Master Automation Run Started.
+[2026-11-05 18:51:48] Synchronized active Vadodara walk-ins into vadodara_active_vacancies.json
+| 2026-11-05 18:51:48 (dry-run) | Vadodara Corridor Outreach | Targeted: 175 | Daily Quota: 200 | Resume: Balaji_Rajput_Fresher_Resume.pdf | Status: DRY-RUN OK |
+[2026-11-05 18:51:48] Outreach cycle finished: 175 fresh leads processed (mode: dry-run).
