@@ -1,42 +1,44 @@
-# Master Pharma Outreach Rules (Balaji Rajput)
+# Master Pharma Outreach Rules (Balaji Rajput - Vadodara Pharma Corridor)
 
 ## 1. Core Objective
-Daily research and application for Production Officer (Tablet Compression), OSD Manufacturing, and QA roles in India (Priority: Gujarat/Vadodara).
+Autonomous daily research, vacancy monitoring, and cold outreach for:
+* Entry-Level Quality Assurance (QA) Trainee
+* Quality Control (QC) Chemist / Wet Analysis Analyst
+* In-Process Quality Assurance (IPQA) Officer
+* Production Officer Trainee (Tablet Compression / Oral Solid Dosage)
+* Geographic Focus: Vadodara, Gujarat (Savli, Makarpura, Nandesari, Padra, Dabhasa, Halol Corridor).
 
-## 2. Daily Target
-- **Goal:** Up to 100 new, verified contacts per day.
-- **Quality Control:** Do not lower validation standards or resend to existing contacts just to hit the target.
+## 2. Daily Target & Throughput
+* **Goal:** Up to 200 new, verified contacts per day.
+* **Deduplication:** Always cross-reference `sent_emails.txt` before any transmission.
+* **Quality Assurance:** Never resend to previously contacted addresses; preserve sender domain reputation.
 
-## 3. Lead Generation Standards
-- **Source:** Publicly listed, credible sources (Job boards, LinkedIn, company career pages, official walk-in notices).
-- **Email Types:** Relevant HR, recruitment, careers, or company application addresses only.
-- **Prohibitions:** 
-  - NO invented email addresses.
-  - NO targeting of personal/non-recruitment addresses.
-  - **STRICT EXCLUSION:** Skip every recipient address containing `elysiumpharma` (case-insensitive).
+## 3. Lead Generation & Vacancy Standards
+* **Source:** Official corporate career portals, public HR recruitment notices, GIDC directories, LinkedIn job postings, and Vadodara walk-in notices (e.g. Alembic Sanskriti Hall, BPC Alkapuri, Four Points by Sheraton).
+* **Target Recipients:** Relevant HR Managers, Talent Acquisition Leads, Plant HR, and official company recruitment emails.
+* **Prohibitions:**
+  * NO invented or unverified email addresses.
+  * NO personal, non-recruitment emails.
+  * **STRICT EXCLUSION:** Skip every recipient address containing `elysiumpharma` (case-insensitive).
 
-## 4. Application Process
-- **Sender:** `sellbuildingbazar.in@gmail.com` (Authorized via Gmail Integration).
-- **Attachment:** Exactly one copy of `/home/ubuntu/upload/Production_Officer_Resume_10_July_2026.pdf`.
-- **Subject:** `Follow-up – Production Officer / Tablet Compression Application`
-- **Authorization:** Standing 'Auto-Approve' granted. Send verified new leads automatically.
+## 4. Application Assets & Dispatch
+* **Candidate Resume:**
+  * Remote URL: `https://raw.githubusercontent.com/balajirajput96/professional-resume-balaji-rajput/main/artifacts/Balaji_Rajput_Fresher_Resume.pdf`
+  * Local File: `artifacts/Balaji_Rajput_Fresher_Resume.pdf`
+* **Candidate Profile:**
+  * Name: Balaji Dilipsingh Rajput
+  * Qualification: Diploma in Biotechnology (Parul Institute of Technology & Engineering, GTU, Vadodara)
+  * Location: Vadodara, Gujarat 390010 (Immediate Joiner, Any Shift)
+  * Phone: +91 87808 61044
+  * Candidate Email: balajirajput966@gmail.com
+* **Subject Format:** `Application: Entry-Level QA/QC Trainee / Production Officer – Balaji Rajput (Vadodara resident | Immediate Joiner)`
+* **Attachment:** Exactly one copy of `Balaji_Rajput_Fresher_Resume.pdf`.
 
-## 5. Logging & Reporting
-- **Duplicate Check:** Always read `/home/ubuntu/sent_emails.txt` before sending.
-- **Sent Log:** Append confirmed successful recipients to `/home/ubuntu/sent_emails.txt`.
-- **Audit Log:** Record daily source URLs and results in `/home/ubuntu/daily_outreach_log.md`.
-- **Reporting:** Report sources checked, new contacts found, sends confirmed, duplicates skipped, and Elysium exclusions at the end of each run.
+## 5. Logging & Audit Requirements
+* **Duplicate Log:** `sent_emails.txt` (append confirmed sent addresses).
+* **Audit Trail:** `daily_outreach_log.md` (record timestamp, company, count, and run status).
+* **Vacancy Registry:** `vadodara_active_vacancies.json` (track ongoing and upcoming walk-in drives).
 
-## 6. Execution Schedule
-- Twice-daily (09:00 AM and 05:00 PM IST).
-- Immediate runs upon user request.
-
-## 7. Personalized Automation Profile & Integration (Balaji Rajput)
-- **Candidate Profile:** Balaji Rajput; over 2 years of OSD tablet compression experience (line clearance, machine readiness, punch/die verification, in-process checks, BMR/logbook review, cGMP documentation); immediate joiner; phone: +91 87808 61044.
-- **Priority Geography:** Vadodara, Halol, Savli, Makarpura, Nandesari, Ankleshwar, Bharuch, Dahej, Sanand and Ahmedabad.
-- **Integrated Platforms:** 
-  - **Gmail MCP:** Active for automated delivery from `sellbuildingbazar.in@gmail.com`.
-  - **Google Gemini Pro:** Active for lead parsing and research intelligence.
-  - **GitHub (`balajirajput96/pharma-outreach-automation`):** Active for audit logging and version control.
-  - **Anti-Gravity & Julius:** Configured for pipeline orchestration and data tracking.
-- **Standing Authority:** Standing 'Auto-Approve' for all verified leads. No manual intervention required.
+## 6. Execution Schedule & Automation
+* Automated bi-daily execution via GitHub Actions (`.github/workflows/daily_vadodara_pharma_outreach.yml`).
+* Asynchronous maintenance, research expansion, and monitoring via Jules CLI (`jules new`).

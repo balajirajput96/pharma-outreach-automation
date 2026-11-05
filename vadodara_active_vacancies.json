@@ -1,0 +1,123 @@
+[
+  {
+    "company": "Alembic Pharmaceuticals Ltd",
+    "venue": "Sanskriti Hall, Alembic City, Opp. Inorbit Mall, Gorwa, Vadodara",
+    "departments": [
+      "Quality Assurance (QA)",
+      "Quality Control (QC)",
+      "OSD Production",
+      "Injectables"
+    ],
+    "eligibility": "Diploma / B.Sc / M.Sc / B.Pharm / M.Pharm (Freshers & Experienced)",
+    "contact_email": "quality@alembic.co.in",
+    "careers_portal": "https://www.alembicpharmaceuticals.com/careers/",
+    "frequency": "Bi-weekly / Monthly Saturday-Sunday Drives",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  },
+  {
+    "company": "Sun Pharmaceutical Industries Ltd",
+    "venue": "Four Points by Sheraton / Sun Pharma Halol & Tandalja R&D, Vadodara",
+    "departments": [
+      "QA (QMS & Validation)",
+      "QC (Analytical Instrumentation)",
+      "Manufacturing & Packaging"
+    ],
+    "eligibility": "B.Sc / M.Sc / B.Pharm / Diploma in Biotech / Chemical",
+    "contact_email": "hr.halol@sunpharma.com",
+    "careers_portal": "https://sunpharma.com/careers/",
+    "frequency": "Monthly Mega Drives",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  },
+  {
+    "company": "Lupin Manufacturing Solutions",
+    "venue": "Lupin Limited, Dabhasa-Padra Road, Vadodara 391440",
+    "departments": [
+      "API Production",
+      "QC Wet Lab & Instrumentation",
+      "QA Compliance"
+    ],
+    "eligibility": "Diploma / B.Sc / M.Sc / B.Pharm",
+    "contact_email": "dabhasa.hr@lupin.com",
+    "careers_portal": "https://www.lupin.com/careers/",
+    "frequency": "Monthly Plant Walk-in Drives",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  },
+  {
+    "company": "Glenmark Pharmaceuticals Ltd",
+    "venue": "Baroda Productivity Council (BPC), Productivity House, Alkapuri, Vadodara",
+    "departments": [
+      "OSD Compression & Coating",
+      "QC Analytical Chemistry",
+      "IPQA Line Clearance"
+    ],
+    "eligibility": "Diploma / B.Sc / M.Sc / B.Pharm",
+    "contact_email": "careers@glenmarkpharma.com",
+    "careers_portal": "https://glenmarkpharma.com/careers/",
+    "frequency": "Quarterly Vadodara City Walk-ins",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  },
+  {
+    "company": "BDR Pharmaceuticals International",
+    "venue": "Plot No. 54, Manjusar GIDC, Savli, Vadodara",
+    "departments": [
+      "Oncology OSD",
+      "IPQA & Documentation",
+      "QC Release Testing"
+    ],
+    "eligibility": "Diploma Biotech / B.Sc Chemistry / B.Pharm",
+    "contact_email": "hr.savli@bdrpharma.com",
+    "careers_portal": "https://bdrpharma.com/careers/",
+    "frequency": "Direct Plant Gate Walk-in Interviews (Monday to Friday)",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  },
+  {
+    "company": "Bharat Parenterals Ltd",
+    "venue": "Survey No. 144-146, Jarod-Samlaya Road, Haripura, Savli, Vadodara",
+    "departments": [
+      "Tablet Compression",
+      "IPQA Line Clearance",
+      "Microbiology & QC"
+    ],
+    "eligibility": "Diploma / ITI / B.Sc / B.Pharm (Freshers Welcomed)",
+    "contact_email": "careers@bplindia.in",
+    "careers_portal": "https://www.bplindia.in/careers/",
+    "frequency": "Regular Scheduled Walk-ins (17-18th of month)",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  },
+  {
+    "company": "Rubicon Research Pvt Ltd",
+    "venue": "Savli GIDC, Vadodara Plant",
+    "departments": [
+      "Formulation R&D",
+      "QC Instrumentation (HPLC/UV)",
+      "QA Systems"
+    ],
+    "eligibility": "B.Sc / M.Sc / B.Pharm / Biotech Graduate",
+    "contact_email": "careers@rubicon.co.in",
+    "careers_portal": "https://rubicon.co.in/careers/",
+    "frequency": "Direct HR Application & Scheduled Drives",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  },
+  {
+    "company": "Ami Life Sciences Pvt Ltd",
+    "venue": "Karakhadi, Padra, Vadodara",
+    "departments": [
+      "API Quality Control",
+      "Regulatory QA",
+      "Production"
+    ],
+    "eligibility": "B.Sc / M.Sc / Diploma / B.Pharm",
+    "contact_email": "hr@amilifesciences.com",
+    "careers_portal": "https://amilifesciences.com/careers/",
+    "frequency": "Direct Gate Interview & Weekly HR Review",
+    "last_verified": "2026-11-05 06:00:22",
+    "status": "Active / Recurring"
+  }
+]

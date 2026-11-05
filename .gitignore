@@ -3,9 +3,18 @@
 !.gitignore
 !Balaji_Rajput_Pharma_Outreach_Automation_Report.md
 !master_pharma_automation.py
+!vadodara_outreach_engine.py
+!vadodara_vacancy_monitor.py
+!vadodara_pharma_companies.json
+!vadodara_active_vacancies.json
 !daily_outreach_rules.md
 !daily_outreach_log.md
 !sent_emails.txt
+!.github/
+!.github/workflows/
+!.github/workflows/*.yml
+!artifacts/
+!artifacts/*.pdf
 !tests/
 !tests/*.py
 !pytest.ini
@@ -21,8 +30,6 @@ page_texts/
 screenshots/
 terminal_full_output/
 upload/
-*.pdf
-*.json
 *.pyc
 __pycache__/
 .cache/

@@ -1,0 +1,985 @@
+[
+  {
+    "company": "Alembic Pharmaceuticals Ltd",
+    "zone": "Gorwa / Alembic Road, Vadodara",
+    "emails": [
+      "quality@alembic.co.in",
+      "prodform@alembic.co.in",
+      "careers@alembic.co.in",
+      "hr@alembic.co.in"
+    ],
+    "type": "OSD / Formulation / QA"
+  },
+  {
+    "company": "Sarabhai Chemicals / Asence Pharma",
+    "zone": "Ranoli / Gorwa, Vadodara",
+    "emails": [
+      "careers@asence.com",
+      "hr@sarabhai.co.in"
+    ],
+    "type": "Formulation / QC"
+  },
+  {
+    "company": "Paushak Ltd (Alembic Group)",
+    "zone": "Panelav / Vadodara",
+    "emails": [
+      "hr@paushak.com",
+      "careers@paushak.com"
+    ],
+    "type": "Specialty Chemicals / Pharma API"
+  },
+  {
+    "company": "Pharmanza India Pvt Ltd",
+    "zone": "Gorwa, Vadodara",
+    "emails": [
+      "hr@pharmanza.com",
+      "info@pharmanza.com"
+    ],
+    "type": "Herbal / OSD"
+  },
+  {
+    "company": "Baroda Pharma Pvt Ltd",
+    "zone": "Gorwa GIDC, Vadodara",
+    "emails": [
+      "hr@barodapharma.com",
+      "info@barodapharma.com"
+    ],
+    "type": "Formulations / Tablets"
+  },
+  {
+    "company": "Vasu Healthcare Pvt Ltd",
+    "zone": "Makarpura GIDC, Vadodara",
+    "emails": [
+      "hr@vasuhealthcare.com",
+      "careers@vasuhealthcare.com"
+    ],
+    "type": "Ayurvedic / Herbal / QC"
+  },
+  {
+    "company": "Apex Healthcare Ltd",
+    "zone": "Makarpura GIDC, Vadodara",
+    "emails": [
+      "hr@apexhealthcare.in",
+      "careers@apexhealthcare.in"
+    ],
+    "type": "Formulation / QA"
+  },
+  {
+    "company": "Denis Chem Lab Ltd",
+    "zone": "Makarpura, Vadodara",
+    "emails": [
+      "hr@denischemlab.com",
+      "careers@denischemlab.com"
+    ],
+    "type": "IV Fluids / Injectables / QA"
+  },
+  {
+    "company": "Kiri Laboratories",
+    "zone": "Makarpura GIDC, Vadodara",
+    "emails": [
+      "careers@kiripharma.com",
+      "hr@kiripharma.com"
+    ],
+    "type": "Tablets / Liquid Orals"
+  },
+  {
+    "company": "Medilux Laboratories",
+    "zone": "Makarpura GIDC, Vadodara",
+    "emails": [
+      "hr@medilux.co.in",
+      "careers@medilux.co.in"
+    ],
+    "type": "Bulk Drugs / API"
+  },
+  {
+    "company": "Shreno Limited (Engineering & Glass)",
+    "zone": "Makarpura, Vadodara",
+    "emails": [
+      "hr@shreno.com"
+    ],
+    "type": "Pharma Packaging"
+  },
+  {
+    "company": "Maneesh Pharmaceuticals",
+    "zone": "Makarpura, Vadodara",
+    "emails": [
+      "hr@maneeshpharma.com"
+    ],
+    "type": "Formulations"
+  },
+  {
+    "company": "Unipack Pharma",
+    "zone": "Makarpura GIDC, Vadodara",
+    "emails": [
+      "careers@unipackpharma.com",
+      "hr@unipackpharma.com"
+    ],
+    "type": "Packaging / OSD"
+  },
+  {
+    "company": "BDR Pharmaceuticals International",
+    "zone": "Savli / Manjusar GIDC, Vadodara",
+    "emails": [
+      "darpan.rajput@bdrpharma.com",
+      "divya.jadav@bdrpharma.com",
+      "neha.thakkar@bdrpharma.com",
+      "hr.savli@bdrpharma.com"
+    ],
+    "type": "Oncology / OSD / QA"
+  },
+  {
+    "company": "Bharat Parenterals Ltd",
+    "zone": "Haripura, Savli, Vadodara",
+    "emails": [
+      "hr@bplindia.in",
+      "careers@bplindia.in",
+      "plant.hr@bplindia.in",
+      "quality@bplindia.in"
+    ],
+    "type": "Injectables / Tablets / QA/QC"
+  },
+  {
+    "company": "Bajaj Healthcare Ltd",
+    "zone": "Manjusar GIDC, Savli, Vadodara",
+    "emails": [
+      "hr.savli@bajajhealth.com",
+      "careers@bajajhealth.com",
+      "recruitment@bajajhealth.com"
+    ],
+    "type": "APIs / Formulations"
+  },
+  {
+    "company": "Rubicon Research Pvt Ltd",
+    "zone": "Savli GIDC, Vadodara",
+    "emails": [
+      "careers@rubicon.co.in",
+      "hr@rubicon.co.in",
+      "vadodara.hr@rubicon.co.in"
+    ],
+    "type": "OSD / Formulation R&D / QA"
+  },
+  {
+    "company": "Swiss Parenterals Ltd",
+    "zone": "Savli GIDC, Vadodara",
+    "emails": [
+      "hr@swissparenterals.com",
+      "careers@swissparenterals.com"
+    ],
+    "type": "Injectables / Sterile / QC"
+  },
+  {
+    "company": "Gujarat Themis Biosyn Ltd",
+    "zone": "Savli GIDC, Vadodara",
+    "emails": [
+      "hr@gtbl.in",
+      "careers@gtbl.in"
+    ],
+    "type": "Fermentation / Biotech / QC"
+  },
+  {
+    "company": "Aumgene Biosciences",
+    "zone": "Manjusar, Savli, Vadodara",
+    "emails": [
+      "careers@aumgene.com",
+      "hr@aumgene.com"
+    ],
+    "type": "Biotech / Enzymes / QA"
+  },
+  {
+    "company": "Polydrug Laboratories",
+    "zone": "Savli GIDC, Vadodara",
+    "emails": [
+      "hr@polydrug.com"
+    ],
+    "type": "API / Active Ingredients"
+  },
+  {
+    "company": "Sanzyme Biogenics",
+    "zone": "Savli, Vadodara",
+    "emails": [
+      "hr@sanzyme.com",
+      "careers@sanzyme.com"
+    ],
+    "type": "Probiotics / Fermentation"
+  },
+  {
+    "company": "Jubilant Ingrevia Ltd",
+    "zone": "Savli / Samlaya, Vadodara",
+    "emails": [
+      "careers@jubl.com",
+      "hr.samlaya@jubl.com"
+    ],
+    "type": "Specialty Chemicals & Pharma"
+  },
+  {
+    "company": "Nectar Lifesciences",
+    "zone": "Savli GIDC, Vadodara",
+    "emails": [
+      "hr@neclife.com",
+      "careers@neclife.com"
+    ],
+    "type": "Cephalosporins / API"
+  },
+  {
+    "company": "Phaedrus Life Science",
+    "zone": "Savli GIDC, Vadodara",
+    "emails": [
+      "hr@phaedruslife.com",
+      "careers@phaedruslife.com"
+    ],
+    "type": "OSD / Tablet Compression"
+  },
+  {
+    "company": "SP Accure Labs",
+    "zone": "Manjusar GIDC, Vadodara",
+    "emails": [
+      "hr@spaccurelabs.com",
+      "careers@spaccurelabs.com"
+    ],
+    "type": "Oncology / Formulations"
+  },
+  {
+    "company": "Deepak Nitrite Ltd",
+    "zone": "Nandesari GIDC, Vadodara",
+    "emails": [
+      "careers@godeepak.com",
+      "hr.nandesari@godeepak.com"
+    ],
+    "type": "Pharma Intermediates"
+  },
+  {
+    "company": "Gujarat Fluorochemicals Ltd (GFL)",
+    "zone": "Ranoli / Nandesari, Vadodara",
+    "emails": [
+      "hr@gfl.co.in",
+      "careers@gfl.co.in"
+    ],
+    "type": "Fluorospecialties / Pharma"
+  },
+  {
+    "company": "Transpek Industry Ltd",
+    "zone": "Atladra / Ekalbara, Vadodara",
+    "emails": [
+      "careers@transpek.com",
+      "hr@transpek.com"
+    ],
+    "type": "Acid Chlorides / Pharma Intermediates"
+  },
+  {
+    "company": "Chemcrux Enterprises Ltd",
+    "zone": "Ranoli, Vadodara",
+    "emails": [
+      "hr@chemcrux.com"
+    ],
+    "type": "Bulk Drug Intermediates"
+  },
+  {
+    "company": "Bodal Chemicals Ltd",
+    "zone": "Nandesari GIDC, Vadodara",
+    "emails": [
+      "hr@bodal.com",
+      "careers@bodal.com"
+    ],
+    "type": "Chemicals / Pharma Intermediates"
+  },
+  {
+    "company": "Envision Pharma Services",
+    "zone": "Vadodara Technology Park",
+    "emails": [
+      "hr@envisionpharma.com",
+      "careers@envisionpharma.com"
+    ],
+    "type": "Medical Writing / Pharma Solutions"
+  },
+  {
+    "company": "Lupin Limited (Lupin Dabhasa)",
+    "zone": "Dabhasa / Padra, Vadodara",
+    "emails": [
+      "vinodparmar@lupin.com",
+      "prachipatil@lupin.com",
+      "suhailkhan1@lupin.com",
+      "dabhasa.hr@lupin.com",
+      "careers@lupin.com"
+    ],
+    "type": "API / Bulk Drugs / Formulation / QA/QC"
+  },
+  {
+    "company": "Ami Life Sciences Pvt Ltd",
+    "zone": "Karakhadi, Padra, Vadodara",
+    "emails": [
+      "hr@amilifesciences.com",
+      "careers@amilifesciences.com",
+      "recruitment@amilifesciences.com"
+    ],
+    "type": "APIs / Intermediates / QA"
+  },
+  {
+    "company": "Sterling Biotech Ltd",
+    "zone": "Karakhadi, Padra, Vadodara",
+    "emails": [
+      "careers@sterlingbiotech.com",
+      "hr@sterlingbiotech.com"
+    ],
+    "type": "Gelatin / Fermentation / Pharma"
+  },
+  {
+    "company": "Sterling Gelatin",
+    "zone": "Karakhadi, Padra, Vadodara",
+    "emails": [
+      "hr@sterlinggelatin.com",
+      "careers@sterlinggelatin.com"
+    ],
+    "type": "Pharmaceutical Gelatin"
+  },
+  {
+    "company": "Zydus Lifesciences (Dabhasa)",
+    "zone": "Dabhasa, Vadodara",
+    "emails": [
+      "recruitment@zyduslife.com",
+      "hr.vadodara@zyduslife.com",
+      "careers@zyduslife.com"
+    ],
+    "type": "Formulation / OSD / QA/QC"
+  },
+  {
+    "company": "Cadila Pharmaceuticals",
+    "zone": "Dholka / Padra, Vadodara Corridor",
+    "emails": [
+      "careers@cadilapharma.co.in",
+      "hr@cadilapharma.co.in",
+      "recruitment@cadilapharma.co.in"
+    ],
+    "type": "Formulations / Tablets / QA"
+  },
+  {
+    "company": "Sun Pharmaceutical Industries Ltd",
+    "zone": "Halol GIDC, Vadodara Region",
+    "emails": [
+      "hr.halol@sunpharma.com",
+      "careers@sunpharma.com",
+      "recruitment.halol@sunpharma.com"
+    ],
+    "type": "Injectables / OSD / QA/QC"
+  },
+  {
+    "company": "Halewood Laboratories Pvt Ltd",
+    "zone": "Halol GIDC",
+    "emails": [
+      "hr@halewoodlabs.com",
+      "careers@halewoodlabs.com"
+    ],
+    "type": "Tablets / OSD / Effervescent"
+  },
+  {
+    "company": "Windlas Biotech Ltd",
+    "zone": "Halol / Dehradun",
+    "emails": [
+      "hr@windlasbiotech.com",
+      "careers@windlasbiotech.com"
+    ],
+    "type": "Tablets / Capsules / QA"
+  },
+  {
+    "company": "Ciron Drugs & Pharmaceuticals",
+    "zone": "Halol / Tarapur",
+    "emails": [
+      "hr@cirondrugs.com",
+      "careers@cirondrugs.com"
+    ],
+    "type": "Liquid Injections / Tablets"
+  },
+  {
+    "company": "Medgel Pharma Pvt Ltd",
+    "zone": "Halol / Pithampur",
+    "emails": [
+      "hr@medgel.in",
+      "careers@medgel.in"
+    ],
+    "type": "Soft Gelatin Capsules / QA/QC"
+  },
+  {
+    "company": "Hikal Limited",
+    "zone": "Panoli / Gujarat Corridor",
+    "emails": [
+      "careers@hikal.com",
+      "hr@hikal.com"
+    ],
+    "type": "Pharma APIs & Custom Synthesis"
+  },
+  {
+    "company": "Torrent Pharmaceuticals Ltd",
+    "zone": "Indrad / Baddi / Gujarat",
+    "emails": [
+      "recruitment@torrentpharma.com",
+      "careers@torrentpharma.com",
+      "hr@torrentpharma.com"
+    ],
+    "type": "OSD / Formulation / QA/QC"
+  },
+  {
+    "company": "Intas Pharmaceuticals Ltd",
+    "zone": "Matoda / Sanand / SEZ",
+    "emails": [
+      "hr@intaspharma.com",
+      "careers@intaspharma.com",
+      "recruitment@intaspharma.com"
+    ],
+    "type": "OSD / Biotech / QA"
+  },
+  {
+    "company": "Amneal Pharmaceuticals",
+    "zone": "Matoda / SEZ Ahmedabad / Gujarat",
+    "emails": [
+      "aartig@amneal.com",
+      "manavg.patel@amneal.com",
+      "princy.kumari@amneal.com",
+      "careers@amneal.com"
+    ],
+    "type": "Injectables / Oral Solids / QA/QC"
+  },
+  {
+    "company": "Corona Remedies Pvt Ltd",
+    "zone": "Bhayla / Bavla, Gujarat",
+    "emails": [
+      "anjaliv@coronaremedies.com",
+      "sagart@coronaremedies.com",
+      "hr.bhayla@coronaremedies.com",
+      "careers@coronaremedies.com"
+    ],
+    "type": "OSD / Tablets / QC"
+  },
+  {
+    "company": "Stallion Laboratories Pvt Ltd",
+    "zone": "Gallops Industrial Park, Bavla",
+    "emails": [
+      "paresh.patel@stallionlabs.com",
+      "aarti.oberoi@stallionlabs.com",
+      "hr@stallionlabs.com"
+    ],
+    "type": "Tablets / Capsules / QA/QC"
+  },
+  {
+    "company": "Concord Biotech Ltd",
+    "zone": "Valthera, Dholka, Gujarat",
+    "emails": [
+      "trushitacharya@concordbiotech.com",
+      "careers@concordbiotech.com",
+      "hr@concordbiotech.com"
+    ],
+    "type": "Biopharma / Fermentation / QA"
+  },
+  {
+    "company": "Ipca Laboratories Ltd",
+    "zone": "Ranu Baroda / Kandla / Piparia",
+    "emails": [
+      "abhishekd.parmar@ipca.com",
+      "hr.baroda@ipca.com",
+      "careers@ipca.com"
+    ],
+    "type": "Formulations / API / QA"
+  },
+  {
+    "company": "USV Private Limited",
+    "zone": "Daman / Gujarat Corridor",
+    "emails": [
+      "rohan.kale@usv.in",
+      "sanafatma.khan@usv.in",
+      "careers@usv.in",
+      "hr@usv.in"
+    ],
+    "type": "OSD / Quality Assurance"
+  },
+  {
+    "company": "Macleods Pharmaceuticals Ltd",
+    "zone": "Dahej / Sarigam / Daman",
+    "emails": [
+      "careers@macleodspharma.com",
+      "recruitment@macleodspharma.com"
+    ],
+    "type": "OSD / Formulations / QA/QC"
+  },
+  {
+    "company": "Alkem Laboratories Ltd",
+    "zone": "Ankleshwar / Daman / Mandva",
+    "emails": [
+      "careers@alkem.com",
+      "hr.ankleshwar@alkem.com"
+    ],
+    "type": "Tablets / API / QA"
+  },
+  {
+    "company": "Cipla Limited",
+    "zone": "Kurkumbh / Patalganga / Gujarat Corridor",
+    "emails": [
+      "careers@cipla.com",
+      "talentacquisition@cipla.com"
+    ],
+    "type": "Respiratory / OSD / QC"
+  },
+  {
+    "company": "Dr. Reddys Laboratories",
+    "zone": "SEZ / Hyderabad / Gujarat Base",
+    "emails": [
+      "careers@drreddys.com",
+      "talentacquisition@drreddys.com"
+    ],
+    "type": "Formulations / Biologics"
+  },
+  {
+    "company": "Glenmark Pharmaceuticals",
+    "zone": "Ankleshwar / Dahej / Baroda Drive",
+    "emails": [
+      "careers@glenmarkpharma.com",
+      "hr.ankleshwar@glenmarkpharma.com"
+    ],
+    "type": "Nasal / OSD / QC/QA"
+  },
+  {
+    "company": "Hester Biosciences Ltd",
+    "zone": "Kadi / Ahmedabad / Mehsana",
+    "emails": [
+      "hr@hester.in",
+      "careers@hester.in"
+    ],
+    "type": "Animal Health / Vaccines / Biotech"
+  },
+  {
+    "company": "Lincoln Pharmaceuticals Ltd",
+    "zone": "Khatraj / Ahmedabad",
+    "emails": [
+      "careers@lincolnpharma.com",
+      "hr@lincolnpharma.com"
+    ],
+    "type": "Formulation / Injectables"
+  },
+  {
+    "company": "West-Coast Pharmaceutical Works",
+    "zone": "Gota / Ahmedabad",
+    "emails": [
+      "hr@westcoastin.com",
+      "careers@westcoastin.com"
+    ],
+    "type": "Tablets / Capsules / Drops"
+  },
+  {
+    "company": "Octavius Pharma Pvt Ltd",
+    "zone": "Changodar / Ahmedabad",
+    "emails": [
+      "hr@octaviuspharma.com",
+      "careers@octaviuspharma.com"
+    ],
+    "type": "OSD / Formulation"
+  },
+  {
+    "company": "Beta Drugs Ltd",
+    "zone": "Gujarat / Himachal Base",
+    "emails": [
+      "hr@betadrugs.co.in",
+      "careers@betadrugs.co.in"
+    ],
+    "type": "Oncology Formulations"
+  },
+  {
+    "company": "Promea Therapeutics",
+    "zone": "Diagnostic & Pharma Base",
+    "emails": [
+      "careers@promea.in",
+      "hr@promea.in"
+    ],
+    "type": "Diagnostics & Parenterals"
+  },
+  {
+    "company": "Sterin Laboratories",
+    "zone": "Gujarat Industrial Zone",
+    "emails": [
+      "hr@sterinlab.com",
+      "careers@sterinlab.com"
+    ],
+    "type": "Formulations / IPQA"
+  },
+  {
+    "company": "Aarti Industries / Aarti Drugs",
+    "zone": "Jhagadia / Vapi / Tarapur",
+    "emails": [
+      "careers@aartidrugs.com",
+      "hr@aartidrugs.com"
+    ],
+    "type": "Active Pharma Ingredients"
+  },
+  {
+    "company": "Synokem Pharmaceuticals Ltd",
+    "zone": "Haridwar / Gujarat Hub",
+    "emails": [
+      "careers@synokem.com",
+      "hr@synokem.com"
+    ],
+    "type": "OSD / Tablets / QA"
+  },
+  {
+    "company": "Aimil Pharmaceuticals Ltd",
+    "zone": "Gujarat / Delhi NCR",
+    "emails": [
+      "careers@aimilpharmaceuticals.com",
+      "hr@aimilpharmaceuticals.com"
+    ],
+    "type": "Ayurvedic & Modern Formulations"
+  },
+  {
+    "company": "Emcure Pharmaceuticals Ltd",
+    "zone": "Sanand / Pune / Gujarat Hub",
+    "emails": [
+      "recruitment@emcure.co.in",
+      "careers@emcure.co.in"
+    ],
+    "type": "OSD / Injectables / QA/QC"
+  },
+  {
+    "company": "Aragen Life Sciences",
+    "zone": "Vadodara / Hyderabad Hub",
+    "emails": [
+      "careers@aragen.com",
+      "hr@aragen.com"
+    ],
+    "type": "CRO / Analytical R&D / QC"
+  },
+  {
+    "company": "Zentiva India",
+    "zone": "Ankleshwar / Gujarat Corridor",
+    "emails": [
+      "hr.india@zentiva.com",
+      "careers.india@zentiva.com"
+    ],
+    "type": "Generics / Tablets / QA"
+  },
+  {
+    "company": "Annora Pharma Pvt Ltd",
+    "zone": "Formulation Hub",
+    "emails": [
+      "hr@annorapharma.com",
+      "careers@annorapharma.com"
+    ],
+    "type": "OSD / Solid Orals / QA"
+  },
+  {
+    "company": "Aizant Drug Research Solutions",
+    "zone": "Bioanalytical / Gujarat Outreach",
+    "emails": [
+      "careers@aizant.com",
+      "hr@aizant.com"
+    ],
+    "type": "CRO / Clinical / QC"
+  },
+  {
+    "company": "Celogen Pharma Pvt Ltd",
+    "zone": "Mehsana / Gozaria, Gujarat",
+    "emails": [
+      "hr@celogenpharma.com",
+      "careers@celogenpharma.com"
+    ],
+    "type": "Formulations / Tablets / QC"
+  },
+  {
+    "company": "Heranba Industries Ltd",
+    "zone": "Vapi / Gujarat Corridor",
+    "emails": [
+      "hr@heranba.com",
+      "careers@heranba.com"
+    ],
+    "type": "Agrochemicals & Intermediates"
+  },
+  {
+    "company": "Ind-Swift Laboratories Ltd",
+    "zone": "Derabassi / Gujarat Outreach",
+    "emails": [
+      "hr.gbu@indswiftlabs.com",
+      "careers@indswiftlabs.com"
+    ],
+    "type": "API / Regulatory QA"
+  },
+  {
+    "company": "Gufic Biosciences Ltd",
+    "zone": "Navsari / Indore Hub",
+    "emails": [
+      "recruitment.indore@guficbio.com",
+      "careers@gufic.com"
+    ],
+    "type": "Lyophilized Injectables / QA"
+  },
+  {
+    "company": "Lifechem Pharma",
+    "zone": "GIDC Gujarat",
+    "emails": [
+      "hr@lifechempharma.com"
+    ],
+    "type": "Pharma Intermediates"
+  },
+  {
+    "company": "HOF Pharmaceuticals Ltd",
+    "zone": "Sanand GIDC, Ahmedabad",
+    "emails": [
+      "recruitment@hofpharma.com",
+      "hr@hofpharma.com"
+    ],
+    "type": "OSD / Formulation / QA"
+  },
+  {
+    "company": "DWD Pharmaceuticals Ltd",
+    "zone": "Vapi / Gujarat Hub",
+    "emails": [
+      "hrh.d1@dwdindia.in",
+      "factory@dwdindia.com"
+    ],
+    "type": "Formulation / OSD"
+  },
+  {
+    "company": "Taj Pharmaceuticals Ltd",
+    "zone": "Valsad / Vapi, Gujarat",
+    "emails": [
+      "Hrd@tajpharma.com",
+      "info@tajpharma.com"
+    ],
+    "type": "Generics / Formulations"
+  },
+  {
+    "company": "Aneta Pharma",
+    "zone": "GIDC Industrial Estate",
+    "emails": [
+      "hr@anetapharma.com"
+    ],
+    "type": "Tablets & Capsules"
+  },
+  {
+    "company": "Pharmaforce Labs",
+    "zone": "GIDC Industrial Park",
+    "emails": [
+      "recruitment@pharmaforcelabs.com",
+      "raj.kumar@pharmaforcelabs.com"
+    ],
+    "type": "Solid Orals / IPQA"
+  },
+  {
+    "company": "Senador Laboratories",
+    "zone": "Gujarat Corridor",
+    "emails": [
+      "jigar.mahida@senadorlabs.com",
+      "hr@senadorlabs.com"
+    ],
+    "type": "Quality Control & QA"
+  },
+  {
+    "company": "Unichem Laboratories Ltd",
+    "zone": "Pithampur / Roha / Gujarat",
+    "emails": [
+      "hr@unichemlabs.com",
+      "careers@unichemlabs.com"
+    ],
+    "type": "Formulation / Quality Control"
+  },
+  {
+    "company": "FDC Limited",
+    "zone": "Ankleshwar / Roha / Waluj",
+    "emails": [
+      "hr@fdcindia.com",
+      "careers@fdcindia.com"
+    ],
+    "type": "Oral Liquids & Solid Dosages"
+  },
+  {
+    "company": "Indoco Remedies Ltd",
+    "zone": "Waluj / Patalganga / Baddi",
+    "emails": [
+      "careers@indoco.com",
+      "hr@indoco.com"
+    ],
+    "type": "OSD & Injectables"
+  },
+  {
+    "company": "JB Chemicals & Pharmaceuticals",
+    "zone": "Panoli / Ankleshwar, Gujarat",
+    "emails": [
+      "careers@jbpharma.com",
+      "hr.panoli@jbpharma.com"
+    ],
+    "type": "Tablets / Lozenges / OSD"
+  },
+  {
+    "company": "Micro Labs Limited",
+    "zone": "Bangalore / Baddi / Goa",
+    "emails": [
+      "careers@microlabs.in",
+      "hr@microlabs.in"
+    ],
+    "type": "OSD / Quality Assurance"
+  },
+  {
+    "company": "RPG Life Sciences Ltd",
+    "zone": "Ankleshwar GIDC, Gujarat",
+    "emails": [
+      "careers@rpglifesciences.com",
+      "hr.ankleshwar@rpglifesciences.com"
+    ],
+    "type": "Formulations & API / QA"
+  },
+  {
+    "company": "Strides Pharma Science",
+    "zone": "Surajpur / Bangalore / Chennai",
+    "emails": [
+      "careers@strides.com",
+      "hr@strides.com"
+    ],
+    "type": "Softgel / Solid Orals"
+  },
+  {
+    "company": "Themis Medicare Ltd",
+    "zone": "Vapi GIDC, Gujarat",
+    "emails": [
+      "hr@themismedicare.com",
+      "careers@themismedicare.com"
+    ],
+    "type": "Formulations & Synthetic Drugs"
+  },
+  {
+    "company": "Zuventus Healthcare Ltd",
+    "zone": "Jammu / Pune / Gujarat Hub",
+    "emails": [
+      "hr@zuventus.com",
+      "careers@zuventus.com"
+    ],
+    "type": "Marketing & Production Formulations"
+  },
+  {
+    "company": "Blue Cross Laboratories",
+    "zone": "Nashik / Goa / Gujarat Base",
+    "emails": [
+      "careers@bluecrosslabs.com",
+      "hr@bluecrosslabs.com"
+    ],
+    "type": "Tablets & Liquids / QA"
+  },
+  {
+    "company": "Ajanta Pharma Ltd",
+    "zone": "Dahej / Paithan / Chitegaon",
+    "emails": [
+      "hr@ajantapharma.com",
+      "resume@ajantapharma.com"
+    ],
+    "type": "Specialty Generics / OSD"
+  },
+  {
+    "company": "Troikaa Pharmaceuticals Ltd",
+    "zone": "Thol / Sanand / Dehradun",
+    "emails": [
+      "careers@troikaapharma.com",
+      "hr@troikaapharma.com"
+    ],
+    "type": "Novel Drug Delivery / Injectables"
+  },
+  {
+    "company": "Centaur Pharmaceuticals Pvt Ltd",
+    "zone": "Pune / Goa / Gujarat",
+    "emails": [
+      "careers@centaurpharma.com",
+      "hr@centaurpharma.com"
+    ],
+    "type": "Clinical & Formulations"
+  },
+  {
+    "company": "Coral Laboratories Ltd",
+    "zone": "Por, Vadodara Corridor",
+    "emails": [
+      "hr@corallab.com",
+      "corporate@corallab.com"
+    ],
+    "type": "Formulation / Tablets / Syrups"
+  },
+  {
+    "company": "Lyka Labs Ltd",
+    "zone": "Ankleshwar / Tarapur",
+    "emails": [
+      "careers@lykalabs.com",
+      "hr@lykalabs.com"
+    ],
+    "type": "Lyophilized Injectables"
+  },
+  {
+    "company": "Meyer Organics Pvt Ltd",
+    "zone": "Thane / Gujarat",
+    "emails": [
+      "hr@meyer.co.in",
+      "careers@meyer.co.in"
+    ],
+    "type": "Nutraceuticals & Formulations"
+  },
+  {
+    "company": "Zim Laboratories Ltd",
+    "zone": "Kalmeshwar / Nagpur",
+    "emails": [
+      "careers@zimlab.in",
+      "hr@zimlab.in"
+    ],
+    "type": "Oral Thin Films / Pellets / OSD"
+  },
+  {
+    "company": "Medley Pharmaceuticals Ltd",
+    "zone": "Daman / Jammu / Tarapur",
+    "emails": [
+      "careers@medleypharma.com",
+      "hr@medleypharma.com"
+    ],
+    "type": "OSD / Liquid Orals / QC"
+  },
+  {
+    "company": "Neon Laboratories Ltd",
+    "zone": "Palghar / Mumbai / Gujarat Outreach",
+    "emails": [
+      "hr@neonlabs.com",
+      "careers@neonlabs.com"
+    ],
+    "type": "Anesthesia & Critical Care / QA"
+  },
+  {
+    "company": "Wallace Pharmaceuticals",
+    "zone": "Dharwad / Goa",
+    "emails": [
+      "hr@wallacepharma.net",
+      "careers@wallacepharma.net"
+    ],
+    "type": "Formulations & Antibiotics"
+  },
+  {
+    "company": "Panacea Biotec Ltd",
+    "zone": "Baddi / Lalru / New Delhi",
+    "emails": [
+      "careers@panaceabiotec.com",
+      "hr@panaceabiotec.com"
+    ],
+    "type": "Vaccines & Biosimilars"
+  },
+  {
+    "company": "Veeda Clinical Research",
+    "zone": "Ambawadi / Ahmedabad",
+    "emails": [
+      "careers@veedacr.com",
+      "hr@veedacr.com"
+    ],
+    "type": "Bioequivalence & Clinical Trials"
+  },
+  {
+    "company": "Lambda Therapeutic Research",
+    "zone": "Gota / Ahmedabad",
+    "emails": [
+      "careers@lambdaresearch.com",
+      "hr@lambdaresearch.com"
+    ],
+    "type": "Clinical Pharmacology & Pharmacovigilance"
+  },
+  {
+    "company": "Cliantha Research Ltd",
+    "zone": "Bodakdev / Ahmedabad",
+    "emails": [
+      "careers@cliantha.com",
+      "hr@cliantha.com"
+    ],
+    "type": "Bioanalytical & Dermatology CRO"
+  }
+]

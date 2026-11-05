@@ -1,0 +1,66 @@
+name: Daily Vadodara Pharma Outreach Automation
+
+on:
+  schedule:
+    # Runs daily at 03:30 UTC (09:00 AM IST) and 11:30 UTC (05:00 PM IST)
+    - cron: '30 3 * * *'
+    - cron: '30 11 * * *'
+  workflow_dispatch:
+    inputs:
+      daily_limit:
+        description: 'Maximum emails to process in this run'
+        required: false
+        default: '200'
+      mode:
+        description: 'Run mode (dry-run or live)'
+        required: false
+        default: 'dry-run'
+
+permissions:
+  contents: write
+
+jobs:
+  outreach-automation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Ensure Fresher Resume Asset
+        run: |
+          mkdir -p artifacts
+          curl -fsSL https://raw.githubusercontent.com/balajirajput96/professional-resume-balaji-rajput/main/artifacts/Balaji_Rajput_Fresher_Resume.pdf -o artifacts/Balaji_Rajput_Fresher_Resume.pdf
+          ls -lh artifacts/Balaji_Rajput_Fresher_Resume.pdf
+
+      - name: Run Safety & Regression Test Suite
+        run: |
+          python3 -m unittest discover -s tests -v
+
+      - name: Execute Vadodara Outreach & Vacancy Scanner
+        run: |
+          LIMIT="${{ github.event.inputs.daily_limit || '200' }}"
+          MODE_FLAG="--dry-run"
+          if [ "${{ github.event.inputs.mode }}" = "live" ]; then
+            MODE_FLAG="--live"
+          fi
+          python3 master_pharma_automation.py $MODE_FLAG --limit "$LIMIT"
+
+      - name: Commit & Push Audit Logs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sent_emails.txt daily_outreach_log.md vadodara_active_vacancies.json
+          if ! git diff --staged --quiet; then
+            git commit -m "chore(outreach): automated daily vadodara pharma run [skip ci]"
+            git push
+          else
+            echo "No state changes to commit."
+          fi
